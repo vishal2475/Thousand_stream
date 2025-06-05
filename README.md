@@ -13,7 +13,7 @@ This project checks how similar a new thought is to known thoughts using text an
 
 ---
 
-## ✂ 2. Splitting the Data
+##  2. Splitting the Data
 - The **first 100 thoughts** are selected as the **training data**.
 - From the remaining data, **10 random thoughts** are selected as the **testing data**.
 
