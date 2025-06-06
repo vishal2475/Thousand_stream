@@ -31,10 +31,10 @@ for i, row in enumerate(similarities):
     print(f"Most similar training thought: {train_data['Raw Text'].iloc[row.argmax()]}")
     print(f"Similarity Score: {max_score:.2f}")
     if max_score > 0.7:
-        print("✅ This is a known or similar thought.")
+        print("This is a known or similar thought.")
         known += 1
     else:
-        print("❌ This might be a new or different thought.")
+        print("This might be a new or different thought.")
 
 # Add the count summary here
 print(f"\n Known thoughts: {known}")
