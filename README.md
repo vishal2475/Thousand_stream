@@ -1,6 +1,6 @@
 # Thousand_stream
 
-#  Stream of Thoughts Similarity Checker – Full Explanation (Text Only)
+#  Stream of Thoughts Similarity Checker 
 
 This project checks how similar a new thought is to known thoughts using text analysis techniques like TF-IDF and cosine similarity.
 
