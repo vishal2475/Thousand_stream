@@ -45,6 +45,13 @@ This project checks how similar a new thought is to known thoughts using text an
 - It also shows how many are **new or different**.
 
 ---
+## requirements
+
+install required python libraries:
+
+```bash
+pip install pandas scikit-learn
+```
 
 ##  Final Goal
 This method helps you:
